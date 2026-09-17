@@ -1,5 +1,19 @@
 ## Retail Sales Performance Analysis
 
+## Table of Content 
+ - [Projects Overview](#project-overview)
+ - [Project Objective](#project-objective)
+ - [Tools](#tools) 
+ - [Data Workflow](#data-workflow) 
+ - [Key Metrics](#key-metrics)
+ - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+ - [Exploratory Data Analysis](#eploratory-data-analysis)
+ - [Key Insights and Visuals](#key-insights-and-visuals)
+ - [Recommendations](#recommendation)
+ - [Assumptions](#assumptions)
+ - [Limitations](#limitations)
+ - [Author](#author)
+
 ### Project Overview 
 
  - This project focused on turning raw data into clear, easy to understand results by cleaning and standardizing the records, adding custom calculations, and examining trends using Pivot Tables, all brought together in an interactive dashboard that tracks performance across products, regions, months, order categories, discounts, and sales representatives.
