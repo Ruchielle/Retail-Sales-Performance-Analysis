@@ -14,6 +14,8 @@
  - [Limitations](#limitations)
  - [Author](#author)
 
+![image atl](c1c6f4a4-04c6-4773-b342-e64665d51fa5.jpeg)
+
 ### Project Overview 
 
  - This project focused on turning raw data into clear, easy to understand results by cleaning and standardizing the records, adding custom calculations, and examining trends using Pivot Tables, all brought together in an interactive dashboard that tracks performance across products, regions, months, order categories, discounts, and sales representatives.
